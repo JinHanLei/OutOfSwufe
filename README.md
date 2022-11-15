@@ -1,6 +1,6 @@
 # OutOfSwufe
 
-**[OutOfSwufe](https://github.com/JinHanLei/OutOfSwufe)** ——西南财经大学一键报备出校门
+**[OutOfSwufe](https://github.com/JinHanLei/OutOfSwufe)** ——西南财经大学一键报备出校门<br>
 懒惰是第一生产力，每次报备都得点进swufe移动校园，填一样的报备信息，好麻烦(⑉･̆-･̆⑉)，就写了这个程序
 
 - 前提：得有个**服务器**，服务器有**python**环境
