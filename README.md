@@ -1,6 +1,6 @@
 # OutOfSwufe
 
-**[OutOfSwufe](https://github.com/JinHanLei/OutOfSwufe)** ——西南财经大学一键报备出校门。
+**[OutOfSwufe](https://github.com/JinHanLei/OutOfSwufe)** ——西南财经大学一键报备出校门
 
 - 前提：得有个**服务器**，服务器有**python**环境
 
