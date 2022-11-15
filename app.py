@@ -13,7 +13,8 @@ app = Flask(__name__)
 @app.route('/')
 def index():
     session = requests.session()
-    username = "41723051"
+    # 下面两项填自己的信息
+    username = "9527"
     password = "swufe123"
     session = login(session, username, password)
     res = baobei(session)
