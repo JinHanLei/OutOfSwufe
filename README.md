@@ -4,7 +4,7 @@
 
 - 前提：得有个**服务器**，服务器有**python**环境
 
-- 代码中的username和password替换为这里的帐号密码：[统一身份认证平台](https://authserver.swufe.edu.cn/authserver/login)
+- 代码中的username和password替换为这里的帐号密码：[统一身份认证平台](https://authserver.swufe.edu.cn/authserver)
 
 ### 部署
 
